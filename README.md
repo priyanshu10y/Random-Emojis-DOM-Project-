@@ -21,16 +21,10 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/random-emoji-project.git
+    https://github.com/priyanshu10y/Random-Emojis-DOM-Project-.git
     ```
 
-2. **Navigate to the project directory:**
-
-    ```bash
-    cd random-emoji-project
-    ```
-
-3. **Open `index.html` in your web browser:**
+2. **Open `index.html` in your web browser:**
 
     You can open the file directly by double-clicking it or by using a local server.
 
