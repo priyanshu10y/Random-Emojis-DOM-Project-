@@ -44,7 +44,8 @@ To run this project locally, follow these steps:
 
 Here's how the project looks:
 
-![Example Screenshot](screenshot.png)
+![image](https://github.com/user-attachments/assets/0fb2b881-7fd3-41b3-b449-f827d7dfa522)
+
 
 ## Acknowledgments
 
