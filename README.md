@@ -45,6 +45,9 @@ To run this project locally, follow these steps:
 Here's how the project looks:
 
 ![image](https://github.com/user-attachments/assets/0fb2b881-7fd3-41b3-b449-f827d7dfa522)
+Generates random emoji on mouse hover:
+![image](https://github.com/user-attachments/assets/aa902754-9445-4e8a-ae05-e421ed4becf2)
+
 
 
 ## Acknowledgments
